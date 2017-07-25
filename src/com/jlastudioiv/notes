@@ -1,0 +1,7 @@
+The answer is how much money you'll have after the exchange.
+If "a" is the money you have in one currency
+and "b" is the exchange rate,
+then "c" is how much money you'll have after the exchange.
+So a * b = c, and a = c/b.
+
+
